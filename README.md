@@ -25,4 +25,4 @@ c57d0b0a3fe7ac36c517b1d2be385dcc726039e5f536439a806c35
 3. 
 
 - on window: create a `.txt` file, paste the content, `save as` with the name *rarreg.key* paste it into the winrar directory.
-- on linux/ubuntu/... open a terminal in the Winrar directory, `touch` a file and paste the content from `2` rename it to `*"rarrey.key"``
+- on linux/ubuntu/... open a terminal in the Winrar directory, `touch` a file and paste the content from `2` rename it to `rarrey.key`
