@@ -14,3 +14,12 @@
 #### 3. create the regkey file
 - on window: create a `.txt` file, paste the content, `save as` with the name *rarreg.key* paste it into the winrar directory.
 - on linux/ubuntu/mint,... open a terminal in the Winrar directory, `touch` a file and paste the content from `2` rename it to `rarrey.key`
+
+---
+### ***✨ extra keys*** 
+WinRAR License Key [2023]
+
+- HY545-KI43D-VFD33-32543L-LOOCC
+- TO18W-K755S-KMI47-NM8J3-04ZD9
+- LFDNHB-78IJWE-VFD4-NMUIH-LOOCC
+- UIBNE-83NJK-KMI47-BFDF3-04ZD9
