@@ -56,7 +56,7 @@ $ W4ES-X5DR-CTF6-VGY7-BHUN
 ```
 
 - activation code:
-``
+```
 $ ZA2Q-W3SX-E4DC-5RFV-T6GH
 $ BY7H-N8UJ-INHU-YBGT-FVD5
 ```
