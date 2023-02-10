@@ -9,10 +9,12 @@
 ### ***✨ how to?*** 
 #### 1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
 #### 2. copy the raw content from [here](https://github.com/nnbaocuong99/free-winrar/tree/main/content)
-#### 3. create the regkey file
+#### 3. create the regkey file:
 - create a `.txt` file and paste the content into it. 
 - click `save as` add file and name it `rarreg.key`.
-#### 4. right click the Winrar, `open file location` and paste it into the directory
+#### 4. move the key file to the directory:
+- right click the Winrar icon, `open file location` and paste it into it
+- default location for Winrar is
 ```
 c:\ProgramFiles\WinRAR\ 
 ```
