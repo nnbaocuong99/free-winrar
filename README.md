@@ -8,6 +8,15 @@
 ---
 
 ### ***✨ how to??*** 
+#### Method 1:
+- basically just download this [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) file and paste it into the directory 
+```
+c:\ProgramFiles\WinRAR\ 
+```
+
+
+
+
 #### 1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
 #### 2. copy the [raw content](https://github.com/nnbaocuong99/free-winrar/tree/main/content) or download the key files [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) here
 #### 3. create the regkey file:
