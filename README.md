@@ -11,26 +11,48 @@
 #### Method 1:
 - basically just download this [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) file and paste it into the directory 
 
+```
+c:\ProgramFiles\WinRAR\ 
+```
+
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/directory.png" alt="uvu" width="400">
+    <br>
+    <br>
+</div>
+
+<!--
 <img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/directory.png">
+-->
 
-```
-c:\ProgramFiles\WinRAR\ 
-```
+#### Method 2: Use raw content to make a custom license (im pretty sure its not gonna work in 2023)
 
+1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
+2. copy the [raw content](https://github.com/nnbaocuong99/free-winrar/tree/main/content)
+3. on ur desktop: `Right Click -> New -> Text Document`  to create a `.txt` file, then paste the raw content.
 
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/text%20document.png" alt="uvu" width="300">
+    <br>
+    <br>
+</div>
 
+4. on the text document file `File -> Save as`
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/save%20as.png" alt="uvu" width="200">
+    <br>
+    <br>
+</div>
 
-#### 1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
-#### 2. copy the [raw content](https://github.com/nnbaocuong99/free-winrar/tree/main/content) or download the key files [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) here
-#### 3. create the regkey file:
-- create a `.txt` file and paste the content into it. 
-- click `save as` add file and name it `rarreg.key`.
-#### 4. move the key file to the directory:
-- right click the Winrar icon, `open file location` and paste it into it
-- default location for Winrar is
-```
-c:\ProgramFiles\WinRAR\ 
-```
+5. choose the type `All File` then name it `rarreg.key`
+<div align="center">
+    <img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/setting.png" alt="uvu" width="200">
+    <br>
+    <br>
+</div>
+
+6. right click on the Winrar icon, `open file location` copy or cut the key file u just saved before. (the default location is gonna be `c:\ProgramFiles\WinRAR\`
+
 ---
 
 ### ***✨ extra keys*** 
