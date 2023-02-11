@@ -10,6 +10,9 @@
 ### ***✨ how to??*** 
 #### Method 1:
 - basically just download this [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) file and paste it into the directory 
+
+<img src="https://github.com/nnbaocuong99/free-winrar/blob/main/imgs/directory.png">
+
 ```
 c:\ProgramFiles\WinRAR\ 
 ```
