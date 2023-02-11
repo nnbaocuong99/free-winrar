@@ -1,12 +1,12 @@
-<h1 align="center"> ✨ how to get winrar full version (self-guide) ✨ </h1> 
+<h1 align="center"> ✨ get winrar full version (self-guide / research) ✨ </h1> 
 
-### ***✨ first word:*** 
-- as u know [WinRAR](https://www.win-rar.com/) is a powerful archiver extractor tool working on both 32 and 64bit for every popular file formats.
-- also we have [7zip](https://www.7-zip.org/) but in this repo we only have Winrar.
+### ***✨ first words:*** 
+#### 1. as u know [WinRAR](https://www.win-rar.com/) is a powerful archiver extractor tool working on both 32 and 64bit for every popular file formats.
+#### 2. we also have [7zip](https://www.7-zip.org/) but in this repo just lets talk abt Winrar on Window
 
 ---
 
-### ***✨ how to?*** 
+### ***✨ how to??*** 
 #### 1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
 #### 2. copy the raw content from [here](https://github.com/nnbaocuong99/free-winrar/tree/main/content) or download the key files that are ready for use [here](https://github.com/nnbaocuong99/free-winrar/tree/main/key-files-collection)
 #### 3. create the regkey file:
@@ -23,7 +23,7 @@ c:\ProgramFiles\WinRAR\
 ### ***✨ extra keys*** 
 
 #### 1. version 2023:
-- license Key:
+- license keys:
 ```
 $ XZaQ2-R5EGt-V7BB6-QAZ3w-XyDnz
 $ HY545-KI43D-VFD33-32543L-LOOCC
@@ -32,7 +32,7 @@ $ LFDNHB-78IJWE-VFD4-NMUIH-LOOCC
 $ UIBNE-83NJK-KMI47-BFDF3-04ZD9
 ```
 
-- activation Key:
+- activation codes:
 ```
 $ XZaQ2-R5EGt-V7BB6-QAZ3w-XyDnz
 $ BGyX7-RYDC5-FvCD5-YBNGt-WznQZ
@@ -42,14 +42,14 @@ $ 7J8K9-3N5G6-H7KRT-YLDR-TYIXE-CRTYU
 ```
 
 #### 2. version 2022
-- serial Key:
+- serial keys:
 ```
 $ ZAQ2-W3SX-E4DC-R5GT-V6B7
 $ HNU-8JU7-AZQ2-W3SX-E4DC
 $ 5RVT-F6BG-Y7NZ-QA3W-XS4E
 ```
 
-- license Key:
+- license keys:
 ```
 $ SL91-JQ47-HW69-CV24-XV83
 $ 3AQZ-W4SX-E5DC-R6FV-T7BG
