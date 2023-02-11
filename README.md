@@ -9,7 +9,7 @@
 
 ### ***✨ how to??*** 
 #### 1. download [Winrar](https://www.win-rar.com/download.html?&L=0) from the official website.
-#### 2. copy the raw content from [here](https://github.com/nnbaocuong99/free-winrar/tree/main/content) or download the key files that are ready for use [here](https://github.com/nnbaocuong99/free-winrar/tree/main/key-files-collection)
+#### 2. copy the [raw content](https://github.com/nnbaocuong99/free-winrar/tree/main/content) or download the key files [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) here
 #### 3. create the regkey file:
 - create a `.txt` file and paste the content into it. 
 - click `save as` add file and name it `rarreg.key`.
