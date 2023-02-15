@@ -1,13 +1,13 @@
 <h1 align="center"> ✨ get winrar full version (self-guide / research) ✨ </h1> 
 
-### ***✨ first words:*** 
-#### 1. as u know [WinRAR](https://www.win-rar.com/) is a powerful archiver extractor tool working on both 32 and 64bit for every popular file formats.
-#### 2. we also have [7zip](https://www.7-zip.org/) but in this repo just lets talk abt Winrar on Window
-#### 3. i just wanna help, if u r already know it, pls leave
-
 ---
 
-### ***✨ how to??*** 
+## ***✨ first words:*** 
+1. as u know [WinRAR](https://www.win-rar.com/) is a powerful archiver extractor tool working on both 32 and 64bit for every popular file formats.
+2. we also have [7zip](https://www.7-zip.org/) but in this repo just lets talk abt Winrar on Window
+3. i just wanna help, if u r already know it, pls leave
+
+## ***✨ how to??*** 
 
 #### • <ins>*Method 1*</ins>: basically just download this [100% work](https://github.com/nnbaocuong99/free-winrar/blob/main/key-files-collection/100%25%20work.zip) file and paste it into the directory 
 
@@ -55,7 +55,7 @@ c:\ProgramFiles\WinRAR\
 
 ---
 
-### ***✨ extra keys*** 
+## ***✨ extra keys:*** 
 
 #### 1. version 2023:
 - license keys:
