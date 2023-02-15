@@ -3,7 +3,7 @@
 ### ***✨ first words:*** 
 #### 1. as u know [WinRAR](https://www.win-rar.com/) is a powerful archiver extractor tool working on both 32 and 64bit for every popular file formats.
 #### 2. we also have [7zip](https://www.7-zip.org/) but in this repo just lets talk abt Winrar on Window
-#### 3. i just wanna help. 
+#### 3. i just wanna help, if u r already know it, pls leave
 
 ---
 
